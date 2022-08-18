@@ -1,0 +1,409 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Aufgabenstellung}{11}{section.2}
+\contentsline {section}{\numberline {2}Anforderungsdefinition}{11}{section.3}
+\contentsline {section}{\numberline {3}Entwurf}{12}{section.19}
+\contentsline {section}{\numberline {4}Benutzungshinweise}{14}{section.20}
+\contentsline {subsection}{\numberline {4.1}Das Hauptmen\IeC {\"u}}{14}{subsection.21}
+\contentsline {paragraph}{\nonumberline Ein lokales Spiel starten}{15}{section*.22}
+\contentsline {paragraph}{\nonumberline Ein Spiel \IeC {\"u}ber Netzwerk starten}{15}{section*.23}
+\contentsline {paragraph}{\nonumberline Optionen}{15}{section*.24}
+\contentsline {paragraph}{\nonumberline Beenden}{15}{section*.25}
+\contentsline {subsection}{\numberline {4.2}Die Optionen}{15}{subsection.26}
+\contentsline {paragraph}{\nonumberline Karteneinstellungen}{15}{section*.27}
+\contentsline {paragraph}{\nonumberline Audioeinstellungen}{15}{section*.28}
+\contentsline {paragraph}{\nonumberline Zur\IeC {\"u}ck zum Hauptmen\IeC {\"u}}{15}{section*.29}
+\contentsline {subsubsection}{\numberline {4.2.1}Die Karteneinstellungen}{15}{subsubsection.30}
+\contentsline {paragraph}{\nonumberline Kartenform}{16}{section*.31}
+\contentsline {paragraph}{\nonumberline Kartengr\IeC {\"o}\IeC {\ss }e}{16}{section*.32}
+\contentsline {paragraph}{\nonumberline Zufall}{16}{section*.33}
+\contentsline {paragraph}{\nonumberline Namenseingabe}{16}{section*.34}
+\contentsline {subsection}{\numberline {4.3}Das Pausemen\IeC {\"u}}{17}{subsection.35}
+\contentsline {paragraph}{\nonumberline Optionen}{17}{section*.36}
+\contentsline {paragraph}{\nonumberline Eine Karte Speichern}{17}{section*.37}
+\contentsline {paragraph}{\nonumberline Weiterspielen}{17}{section*.38}
+\contentsline {paragraph}{\nonumberline Zum Hauptmen\IeC {\"u}}{17}{section*.39}
+\contentsline {subsection}{\numberline {4.4}Ein lokales Spiel starten}{18}{subsection.40}
+\contentsline {subsection}{\numberline {4.5}Ein Netzwerkspiel starten}{20}{subsection.41}
+\contentsline {subsection}{\numberline {4.6}Das Spiel}{20}{subsection.42}
+\contentsline {paragraph}{\nonumberline (1) Zugspieler-Anzeige}{20}{section*.43}
+\contentsline {paragraph}{\nonumberline (2) Mana-Flux-Anzeige}{20}{section*.44}
+\contentsline {paragraph}{\nonumberline (3) Das Spielfeld}{21}{section*.45}
+\contentsline {paragraph}{\nonumberline (4) Das Deck}{21}{section*.46}
+\contentsline {paragraph}{\nonumberline (5) Die Hand}{21}{section*.47}
+\contentsline {paragraph}{\nonumberline (6) Tooltips}{21}{section*.48}
+\contentsline {paragraph}{\nonumberline (7) Zug-Beenden-Schaltfl\IeC {\"a}che}{21}{section*.49}
+\contentsline {paragraph}{\nonumberline (8) Mana-Anzeige}{21}{section*.50}
+\contentsline {subsubsection}{\numberline {4.6.1}Eine Bewegung ausf\IeC {\"u}hren}{21}{subsubsection.51}
+\contentsline {subsubsection}{\numberline {4.6.2}Einen Manakristall einsammeln}{21}{subsubsection.52}
+\contentsline {subsubsection}{\numberline {4.6.3}Einen Angriff ausf\IeC {\"u}hren}{21}{subsubsection.53}
+\contentsline {subsubsection}{\numberline {4.6.4}Eine Spielkarte verwenden}{22}{subsubsection.54}
+\contentsline {subsection}{\numberline {4.7}Die Spielmechanik}{22}{subsection.55}
+\contentsline {subsubsection}{\numberline {4.7.1}Spielziel}{22}{subsubsection.56}
+\contentsline {subsubsection}{\numberline {4.7.2}Zauberst\IeC {\"a}be}{22}{subsubsection.57}
+\contentsline {subsubsection}{\numberline {4.7.3}Die Hand \& Das Deck}{22}{subsubsection.58}
+\contentsline {subsubsection}{\numberline {4.7.4}Der eigene Zauberer}{22}{subsubsection.59}
+\contentsline {subsubsection}{\numberline {4.7.5}Angirffe \& Bewegungen}{22}{subsubsection.60}
+\contentsline {paragraph}{\nonumberline Bewegung}{22}{section*.61}
+\contentsline {paragraph}{\nonumberline Angriff}{25}{section*.62}
+\contentsline {subsubsection}{\numberline {4.7.6}Zauberei}{25}{subsubsection.63}
+\contentsline {paragraph}{\nonumberline Kreaturen beschw\IeC {\"o}ren}{25}{section*.64}
+\contentsline {subsubsection}{\numberline {4.7.7}Zauperspr\IeC {\"u}che}{26}{subsubsection.65}
+\contentsline {paragraph}{\nonumberline Rache (\glqq Vengeance \grqq \hspace {0.05em})}{26}{section*.66}
+\contentsline {paragraph}{\nonumberline Erlass (\glqq Decree\grqq \hspace {0.05em})}{26}{section*.67}
+\contentsline {paragraph}{\nonumberline Windl\IeC {\"a}ufer (\glqq Windwalker\grqq \hspace {0.05em})}{26}{section*.68}
+\contentsline {paragraph}{\nonumberline G\IeC {\"o}ttlicher Schild (\glqq Divine Shield\grqq \hspace {0.05em})}{26}{section*.69}
+\contentsline {paragraph}{\nonumberline G\IeC {\"o}ttlicher Bogen (\glqq Divine Bow\grqq \hspace {0.05em})}{26}{section*.70}
+\contentsline {paragraph}{\nonumberline G\IeC {\"o}ttliches Schwert (\glqq Divine Sword\grqq \hspace {0.05em})}{26}{section*.71}
+\contentsline {subsubsection}{\numberline {4.7.8}Kreaturen}{26}{subsubsection.72}
+\contentsline {paragraph}{\nonumberline Werte}{26}{section*.73}
+\contentsline {paragraph}{\nonumberline Lebenspunkte (\glqq Health\grqq \hspace {0.05em})}{26}{section*.74}
+\contentsline {paragraph}{\nonumberline Gr\IeC {\"o}\IeC {\ss }e (\glqq Size\grqq \hspace {0.05em})}{26}{section*.75}
+\contentsline {paragraph}{\nonumberline Angriff (\glqq Attack\grqq \hspace {0.05em})}{26}{section*.76}
+\contentsline {paragraph}{\nonumberline Angriffsreichweite (\glqq Attack Range\grqq \hspace {0.05em})}{27}{section*.77}
+\contentsline {paragraph}{\nonumberline Fernkampfangriff (\glqq Ranged Attack\grqq \hspace {0.05em})}{27}{section*.78}
+\contentsline {paragraph}{\nonumberline Physische Verteidigung (\glqq Physical Resistance\grqq \hspace {0.05em})}{27}{section*.79}
+\contentsline {paragraph}{\nonumberline Magische Verteidigung (\glqq Magical Resistance\grqq \hspace {0.05em})}{27}{section*.80}
+\contentsline {paragraph}{\nonumberline Bewegungspunkte (\glqq Movement Points\grqq \hspace {0.05em})}{27}{section*.81}
+\contentsline {subsubsection}{\numberline {4.7.9}Attribute}{27}{subsubsection.82}
+\contentsline {paragraph}{\nonumberline Fliegend (\glqq Flying\grqq \hspace {0.05em})}{27}{section*.83}
+\contentsline {paragraph}{\nonumberline Blutsauger (\glqq Leech\grqq \hspace {0.05em})}{27}{section*.84}
+\contentsline {paragraph}{\nonumberline Luftabfangen (\glqq Air Interception\grqq \hspace {0.05em})}{27}{section*.85}
+\contentsline {paragraph}{\nonumberline Struktur (\glqq Structure\grqq \hspace {0.05em})}{27}{section*.86}
+\contentsline {paragraph}{\nonumberline Feste H\IeC {\"o}he (\glqq Fixed Level\grqq \hspace {0.05em})}{28}{section*.87}
+\contentsline {paragraph}{\nonumberline R\IeC {\"u}cksto\IeC {\ss } (\glqq Knockback\grqq \hspace {0.05em})}{28}{section*.88}
+\contentsline {paragraph}{\nonumberline Paralysierend (\glqq Paralyzing\grqq \hspace {0.05em})}{28}{section*.89}
+\contentsline {paragraph}{\nonumberline Paralysiert (\glqq Paralyzed\grqq \hspace {0.05em})}{28}{section*.90}
+\contentsline {paragraph}{\nonumberline Untot (\glqq Undead\grqq \hspace {0.05em})}{28}{section*.91}
+\contentsline {paragraph}{\nonumberline Untotschl\IeC {\"a}chter (\glqq Undead Slayer\grqq \hspace {0.05em})}{28}{section*.92}
+\contentsline {paragraph}{\nonumberline Einzelschuss (\glqq One Time Shot\grqq \hspace {0.05em})}{29}{section*.93}
+\contentsline {subsubsection}{\numberline {4.7.10}Mana \& Flux}{29}{subsubsection.94}
+\contentsline {paragraph}{\nonumberline Mana}{29}{section*.95}
+\contentsline {paragraph}{\nonumberline Flux}{29}{section*.96}
+\contentsline {section}{\numberline {5}Anwendungsbeispiel}{30}{section.97}
+\contentsline {section}{\numberline {6}Quelldateien}{34}{section.98}
+\contentsline {subsection}{\numberline {6.1}Control}{34}{subsection.99}
+\contentsline {subsubsection}{\numberline {6.1.1}Main.java}{34}{subsubsection.100}
+\contentsline {subsubsection}{\numberline {6.1.2}Game.java}{34}{subsubsection.137}
+\contentsline {subsection}{\numberline {6.2}Control.Actions}{36}{subsection.264}
+\contentsline {subsubsection}{\numberline {6.2.1}Action}{36}{subsubsection.265}
+\contentsline {subsubsection}{\numberline {6.2.2}AttackAction}{37}{subsubsection.312}
+\contentsline {subsubsection}{\numberline {6.2.3}AttackMoveAction}{42}{subsubsection.632}
+\contentsline {subsubsection}{\numberline {6.2.4}ManaPickupAction}{43}{subsubsection.683}
+\contentsline {subsubsection}{\numberline {6.2.5}ManaPickupMoveAction}{44}{subsubsection.735}
+\contentsline {subsubsection}{\numberline {6.2.6}MeleeAttackAction}{44}{subsubsection.794}
+\contentsline {subsubsection}{\numberline {6.2.7}MoveAction}{46}{subsubsection.859}
+\contentsline {subsubsection}{\numberline {6.2.8}RangedAttackAction}{48}{subsubsection.993}
+\contentsline {subsection}{\numberline {6.3}Control.Controllers}{49}{subsection.1049}
+\contentsline {subsubsection}{\numberline {6.3.1}AnimationController}{49}{subsubsection.1050}
+\contentsline {subsubsection}{\numberline {6.3.2}GameController}{50}{subsubsection.1140}
+\contentsline {subsubsection}{\numberline {6.3.3}InputController}{52}{subsubsection.1283}
+\contentsline {subsubsection}{\numberline {6.3.4}MapController}{58}{subsubsection.1692}
+\contentsline {subsubsection}{\numberline {6.3.5}PlayerController}{62}{subsubsection.1903}
+\contentsline {subsubsection}{\numberline {6.3.6}SceneController}{63}{subsubsection.1959}
+\contentsline {subsubsection}{\numberline {6.3.7}SoundController}{66}{subsubsection.2172}
+\contentsline {subsubsection}{\numberline {6.3.8}TurnController}{67}{subsubsection.2224}
+\contentsline {subsection}{\numberline {6.4}Control.Network}{69}{subsection.2360}
+\contentsline {subsubsection}{\numberline {6.4.1}GameClient}{69}{subsubsection.2361}
+\contentsline {subsubsection}{\numberline {6.4.2}GameServer}{71}{subsubsection.2510}
+\contentsline {subsubsection}{\numberline {6.4.3}RecieveThread}{73}{subsubsection.2662}
+\contentsline {subsubsection}{\numberline {6.4.4}SendThread}{75}{subsubsection.2777}
+\contentsline {subsubsection}{\numberline {6.4.5}UserThread}{77}{subsubsection.2894}
+\contentsline {subsection}{\numberline {6.5}Control.Networks.Packets}{79}{subsection.3032}
+\contentsline {subsubsection}{\numberline {6.5.1}Packet}{79}{subsubsection.3033}
+\contentsline {subsubsection}{\numberline {6.5.2}PacketDecoder}{82}{subsubsection.3215}
+\contentsline {subsubsection}{\numberline {6.5.3}PacketType}{86}{subsubsection.3473}
+\contentsline {subsection}{\numberline {6.6}Control.SemiControllers}{87}{subsection.3528}
+\contentsline {subsubsection}{\numberline {6.6.1}Highlighter}{87}{subsubsection.3529}
+\contentsline {subsubsection}{\numberline {6.6.2}Selector}{90}{subsubsection.3723}
+\contentsline {subsection}{\numberline {6.7}Exceptions}{95}{subsection.4053}
+\contentsline {subsubsection}{\numberline {6.7.1}MapInvalidException}{95}{subsubsection.4054}
+\contentsline {subsubsection}{\numberline {6.7.2}MapTypeNotSupportedException}{95}{subsubsection.4066}
+\contentsline {subsubsection}{\numberline {6.7.3}UnexpectedCardException}{95}{subsubsection.4078}
+\contentsline {subsubsection}{\numberline {6.7.4}UnexpectedGameObjectException}{96}{subsubsection.4090}
+\contentsline {subsection}{\numberline {6.8}Model}{96}{subsection.4102}
+\contentsline {subsubsection}{\numberline {6.8.1}Player}{96}{subsubsection.4103}
+\contentsline {subsection}{\numberline {6.9}Model.Card}{100}{subsection.4344}
+\contentsline {subsubsection}{\numberline {6.9.1}CardAdapter}{100}{subsubsection.4345}
+\contentsline {subsubsection}{\numberline {6.9.2}CardEffectAdapter}{108}{subsubsection.4900}
+\contentsline {subsubsection}{\numberline {6.9.3}CardStack}{110}{subsubsection.5032}
+\contentsline {subsubsection}{\numberline {6.9.4}CardType}{113}{subsubsection.5191}
+\contentsline {subsubsection}{\numberline {6.9.5}Deck}{113}{subsubsection.5216}
+\contentsline {subsubsection}{\numberline {6.9.6}EffectTag}{115}{subsubsection.5314}
+\contentsline {subsubsection}{\numberline {6.9.7}GenericCardEffect}{115}{subsubsection.5328}
+\contentsline {subsubsection}{\numberline {6.9.8}Hand}{115}{subsubsection.5353}
+\contentsline {subsubsection}{\numberline {6.9.9}ICard}{120}{subsubsection.5674}
+\contentsline {subsubsection}{\numberline {6.9.10}ICardEffect}{122}{subsubsection.5765}
+\contentsline {subsubsection}{\numberline {6.9.11}Wand}{122}{subsubsection.5813}
+\contentsline {subsubsection}{\numberline {6.9.12}WandFactory}{125}{subsubsection.5994}
+\contentsline {subsection}{\numberline {6.10}Model.Card.AllCards}{127}{subsection.6071}
+\contentsline {subsubsection}{\numberline {6.10.1}CardFactory}{127}{subsubsection.6072}
+\contentsline {subsection}{\numberline {6.11}Model.Card.AllCards.Spells}{128}{subsection.6159}
+\contentsline {subsubsection}{\numberline {6.11.1}AttackSpell}{128}{subsubsection.6160}
+\contentsline {subsubsection}{\numberline {6.11.2}Spell}{131}{subsubsection.6361}
+\contentsline {subsection}{\numberline {6.12}Model.Card.AllCards.Spells.Chaos}{132}{subsection.6411}
+\contentsline {subsubsection}{\numberline {6.12.1}Vengeance}{132}{subsubsection.6412}
+\contentsline {subsection}{\numberline {6.13}Model.Card.AllCards.Spells.Law}{133}{subsection.6477}
+\contentsline {subsubsection}{\numberline {6.13.1}Decree}{133}{subsubsection.6478}
+\contentsline {subsubsection}{\numberline {6.13.2}DivineBow}{134}{subsubsection.6545}
+\contentsline {subsubsection}{\numberline {6.13.3}DivineShield}{135}{subsubsection.6616}
+\contentsline {subsubsection}{\numberline {6.13.4}DivineSword}{136}{subsubsection.6679}
+\contentsline {subsection}{\numberline {6.14}Model.Card.AllCards.Spells.Neutral}{137}{subsection.6743}
+\contentsline {subsubsection}{\numberline {6.14.1}MagicBolt}{137}{subsubsection.6744}
+\contentsline {subsubsection}{\numberline {6.14.2}WindWalker}{138}{subsubsection.6781}
+\contentsline {subsection}{\numberline {6.15}Model.Card.AllCards.Summons}{139}{subsection.6853}
+\contentsline {subsubsection}{\numberline {6.15.1}Summon}{139}{subsubsection.6854}
+\contentsline {subsubsection}{\numberline {6.15.2}SummonEffect}{141}{subsubsection.6966}
+\contentsline {subsection}{\numberline {6.16}Model.Card.AllCards.Summons.Chaos}{142}{subsection.7042}
+\contentsline {subsubsection}{\numberline {6.16.1}Hellhound}{142}{subsubsection.7043}
+\contentsline {subsubsection}{\numberline {6.16.2}Hydra}{143}{subsubsection.7078}
+\contentsline {subsubsection}{\numberline {6.16.3}Manticore}{143}{subsubsection.7112}
+\contentsline {subsubsection}{\numberline {6.16.4}Skeleton}{144}{subsubsection.7146}
+\contentsline {subsubsection}{\numberline {6.16.5}Vampire}{144}{subsubsection.7179}
+\contentsline {subsubsection}{\numberline {6.16.6}Zombie}{145}{subsubsection.7213}
+\contentsline {subsection}{\numberline {6.17}Model.Card.AllCards.Summons.Law}{145}{subsection.7247}
+\contentsline {subsubsection}{\numberline {6.17.1}IcarusTower}{145}{subsubsection.7248}
+\contentsline {subsubsection}{\numberline {6.17.2}Paladin}{146}{subsubsection.7282}
+\contentsline {subsubsection}{\numberline {6.17.3}Pegasus}{147}{subsubsection.7316}
+\contentsline {subsubsection}{\numberline {6.17.4}SapphireDragon}{147}{subsubsection.7350}
+\contentsline {subsection}{\numberline {6.18}Model.Card.AllCards.Summons.Neutral}{148}{subsection.7384}
+\contentsline {subsubsection}{\numberline {6.18.1}AirElemental}{148}{subsubsection.7385}
+\contentsline {subsubsection}{\numberline {6.18.2}Eagle}{148}{subsubsection.7417}
+\contentsline {subsubsection}{\numberline {6.18.3}Giant}{149}{subsubsection.7450}
+\contentsline {subsubsection}{\numberline {6.18.4}Lion}{149}{subsubsection.7483}
+\contentsline {subsection}{\numberline {6.19}Model.Card.Wands}{150}{subsection.7519}
+\contentsline {subsubsection}{\numberline {6.19.1}AirWand}{150}{subsubsection.7520}
+\contentsline {subsubsection}{\numberline {6.19.2}CreatureWand}{151}{subsubsection.7589}
+\contentsline {subsubsection}{\numberline {6.19.3}RandomWand}{152}{subsubsection.7671}
+\contentsline {subsubsection}{\numberline {6.19.4}UndeadWand}{153}{subsubsection.7711}
+\contentsline {subsection}{\numberline {6.20}Model.Game}{154}{subsection.7767}
+\contentsline {subsubsection}{\numberline {6.20.1}FluxMeter}{154}{subsubsection.7768}
+\contentsline {subsection}{\numberline {6.21}Model.GameObject}{156}{subsection.7880}
+\contentsline {subsubsection}{\numberline {6.21.1}Attribute}{156}{subsubsection.7881}
+\contentsline {subsubsection}{\numberline {6.21.2}CreatureAdapter}{157}{subsubsection.7960}
+\contentsline {subsubsection}{\numberline {6.21.3}GameObject}{167}{subsubsection.8633}
+\contentsline {subsubsection}{\numberline {6.21.4}GameObjects}{170}{subsubsection.8831}
+\contentsline {subsubsection}{\numberline {6.21.5}IAttackable}{171}{subsubsection.8879}
+\contentsline {subsubsection}{\numberline {6.21.6}ManaCrystal}{172}{subsubsection.8929}
+\contentsline {subsubsection}{\numberline {6.21.7}Obstacle}{173}{subsubsection.9005}
+\contentsline {subsubsection}{\numberline {6.21.8}PlayerCharacter}{174}{subsubsection.9033}
+\contentsline {subsubsection}{\numberline {6.21.9}SummonableMinion}{175}{subsubsection.9124}
+\contentsline {subsection}{\numberline {6.22}Model.GameObject.Minions.Chaos}{176}{subsection.9216}
+\contentsline {subsubsection}{\numberline {6.22.1}HellhoundMinion}{176}{subsubsection.9217}
+\contentsline {subsubsection}{\numberline {6.22.2}HydraMinion}{177}{subsubsection.9261}
+\contentsline {subsubsection}{\numberline {6.22.3}ManticoreMinion}{178}{subsubsection.9298}
+\contentsline {subsubsection}{\numberline {6.22.4}SkeletonMinion}{178}{subsubsection.9339}
+\contentsline {subsubsection}{\numberline {6.22.5}VampireMinion}{179}{subsubsection.9380}
+\contentsline {subsubsection}{\numberline {6.22.6}ZombieMinion}{180}{subsubsection.9419}
+\contentsline {subsection}{\numberline {6.23}Model.GameObject.Minions.Law}{180}{subsection.9458}
+\contentsline {subsubsection}{\numberline {6.23.1}IcarusTowerMinion}{180}{subsubsection.9459}
+\contentsline {subsubsection}{\numberline {6.23.2}PaladinMinion}{181}{subsubsection.9505}
+\contentsline {subsubsection}{\numberline {6.23.3}PegasusMinion}{182}{subsubsection.9544}
+\contentsline {subsubsection}{\numberline {6.23.4}SapphireDragonMinion}{183}{subsubsection.9583}
+\contentsline {subsection}{\numberline {6.24}Model.GameObject.Minions.Neutral}{183}{subsection.9625}
+\contentsline {subsubsection}{\numberline {6.24.1}AirElementalMinion}{183}{subsubsection.9626}
+\contentsline {subsubsection}{\numberline {6.24.2}EagleMinion}{184}{subsubsection.9666}
+\contentsline {subsubsection}{\numberline {6.24.3}GiantMinion}{185}{subsubsection.9705}
+\contentsline {subsubsection}{\numberline {6.24.4}LionMinion}{185}{subsubsection.9748}
+\contentsline {subsection}{\numberline {6.25}Model.Map}{186}{subsection.9784}
+\contentsline {subsubsection}{\numberline {6.25.1}AxialTransform}{186}{subsubsection.9785}
+\contentsline {subsubsection}{\numberline {6.25.2}CubeTransform}{188}{subsubsection.9932}
+\contentsline {subsubsection}{\numberline {6.25.3}FloatCubeTransform}{190}{subsubsection.10037}
+\contentsline {subsubsection}{\numberline {6.25.4}Map}{191}{subsubsection.10119}
+\contentsline {subsubsection}{\numberline {6.25.5}MapGenArgs}{196}{subsubsection.10462}
+\contentsline {subsubsection}{\numberline {6.25.6}MapGenerationKeywords}{198}{subsubsection.10562}
+\contentsline {subsubsection}{\numberline {6.25.7}MapGenerator}{199}{subsubsection.10609}
+\contentsline {subsubsection}{\numberline {6.25.8}Pathfinding}{206}{subsubsection.11089}
+\contentsline {subsubsection}{\numberline {6.25.9}PerlinNoise}{211}{subsubsection.11404}
+\contentsline {subsubsection}{\numberline {6.25.10}Tile}{213}{subsubsection.11515}
+\contentsline {subsection}{\numberline {6.26}Resource}{217}{subsection.11795}
+\contentsline {subsubsection}{\numberline {6.26.1}Dimensions}{217}{subsubsection.11796}
+\contentsline {subsubsection}{\numberline {6.26.2}VideoOptions}{217}{subsubsection.11835}
+\contentsline {subsection}{\numberline {6.27}Resource.Constants.CardConstants}{218}{subsection.11862}
+\contentsline {subsubsection}{\numberline {6.27.1}CardConstants}{218}{subsubsection.11863}
+\contentsline {subsection}{\numberline {6.28}Resource.Constants.CardConstants.SpellConstants.Chaos}{219}{subsection.11901}
+\contentsline {subsubsection}{\numberline {6.28.1}VengeanceSpellConstants}{219}{subsubsection.11902}
+\contentsline {subsection}{\numberline {6.29}Resource.Constants.CardConstants.SpellConstants.Law}{220}{subsection.11967}
+\contentsline {subsubsection}{\numberline {6.29.1}DecreeSpellConstants}{220}{subsubsection.11968}
+\contentsline {subsubsection}{\numberline {6.29.2}DivineBowSpellConstants}{221}{subsubsection.12046}
+\contentsline {subsubsection}{\numberline {6.29.3}DivineShieldSpellConstants}{222}{subsubsection.12111}
+\contentsline {subsubsection}{\numberline {6.29.4}DivineSwordSpellConstants}{223}{subsubsection.12170}
+\contentsline {subsection}{\numberline {6.30}Resource.Constants.CardConstants.SpellConstants.Neutral}{224}{subsection.12229}
+\contentsline {subsubsection}{\numberline {6.30.1}MagicBoltSpellConstants}{224}{subsubsection.12230}
+\contentsline {subsubsection}{\numberline {6.30.2}WindWalkerSpellConstants}{225}{subsubsection.12301}
+\contentsline {subsection}{\numberline {6.31}Resource.Constants.CardConstants.SummonConstants}{226}{subsection.12361}
+\contentsline {subsubsection}{\numberline {6.31.1}SummonConstants}{226}{subsubsection.12362}
+\contentsline {subsection}{\numberline {6.32}Resource.Constants.CardConstants.SummonConstants.Chaos}{227}{subsection.12395}
+\contentsline {subsubsection}{\numberline {6.32.1}HellhoundSummonConstants}{227}{subsubsection.12396}
+\contentsline {subsubsection}{\numberline {6.32.2}HydraSummonConstants}{227}{subsubsection.12445}
+\contentsline {subsubsection}{\numberline {6.32.3}ManticoreSummonConstants}{228}{subsubsection.12494}
+\contentsline {subsubsection}{\numberline {6.32.4}SkeletonSummonConstants}{229}{subsubsection.12543}
+\contentsline {subsubsection}{\numberline {6.32.5}VampireSummonConstants}{230}{subsubsection.12592}
+\contentsline {subsubsection}{\numberline {6.32.6}ZombieSummonConstants}{231}{subsubsection.12641}
+\contentsline {subsection}{\numberline {6.33}Resource.Constants.CardConstants.Law}{231}{subsection.12690}
+\contentsline {subsubsection}{\numberline {6.33.1}IcarusTowerSummonConstants}{231}{subsubsection.12691}
+\contentsline {subsubsection}{\numberline {6.33.2}PaladinSummonConstants}{232}{subsubsection.12741}
+\contentsline {subsubsection}{\numberline {6.33.3}PegasusSummonConstants}{233}{subsubsection.12790}
+\contentsline {subsubsection}{\numberline {6.33.4}SapphireDragonSummonConstants}{234}{subsubsection.12839}
+\contentsline {subsection}{\numberline {6.34}Resource.Constants.CardConstants.Neutral}{235}{subsection.12889}
+\contentsline {subsubsection}{\numberline {6.34.1}AirElementalSummonConstants}{235}{subsubsection.12890}
+\contentsline {subsubsection}{\numberline {6.34.2}EagleSummonConstants}{235}{subsubsection.12935}
+\contentsline {subsubsection}{\numberline {6.34.3}GiantSummonConstants}{236}{subsubsection.12979}
+\contentsline {subsubsection}{\numberline {6.34.4}LionSummonConstants}{237}{subsubsection.13023}
+\contentsline {subsection}{\numberline {6.35}Resource.Constants.CardConstants.WandConstants}{238}{subsection.13067}
+\contentsline {subsubsection}{\numberline {6.35.1}AirWandConstants}{238}{subsubsection.13068}
+\contentsline {subsubsection}{\numberline {6.35.2}CreatureWandConstants}{239}{subsubsection.13137}
+\contentsline {subsubsection}{\numberline {6.35.3}RandomWandConstants}{240}{subsubsection.13224}
+\contentsline {subsubsection}{\numberline {6.35.4}UndeadWandConstants}{241}{subsubsection.13256}
+\contentsline {subsection}{\numberline {6.36}Resource.Constants.GeneralConstants}{242}{subsection.13315}
+\contentsline {subsubsection}{\numberline {6.36.1}ActionConstants}{242}{subsubsection.13316}
+\contentsline {subsubsection}{\numberline {6.36.2}ControllerConstants}{242}{subsubsection.13347}
+\contentsline {subsubsection}{\numberline {6.36.3}GameConstants}{243}{subsubsection.13421}
+\contentsline {subsubsection}{\numberline {6.36.4}GameObjectConstants}{244}{subsubsection.13467}
+\contentsline {subsubsection}{\numberline {6.36.5}MapConstants}{245}{subsubsection.13554}
+\contentsline {subsubsection}{\numberline {6.36.6}MenuConstants}{249}{subsubsection.13785}
+\contentsline {subsubsection}{\numberline {6.36.7}NetworkConstants}{252}{subsubsection.14016}
+\contentsline {subsubsection}{\numberline {6.36.8}PlayerConstants}{254}{subsubsection.14119}
+\contentsline {subsubsection}{\numberline {6.36.9}PopUpConstants}{255}{subsubsection.14178}
+\contentsline {subsubsection}{\numberline {6.36.10}SoundConstants}{256}{subsubsection.14243}
+\contentsline {subsubsection}{\numberline {6.36.11}UIConstants}{257}{subsubsection.14293}
+\contentsline {subsection}{\numberline {6.37}Resource.Constants.MinionConstants}{258}{subsection.14341}
+\contentsline {subsubsection}{\numberline {6.37.1}PlayerCharacterMinionConstants}{258}{subsubsection.14342}
+\contentsline {subsection}{\numberline {6.38}Resource.Constants.MinionConstants.Chaos}{259}{subsection.14404}
+\contentsline {subsubsection}{\numberline {6.38.1}HellhoundMinionConstants}{259}{subsubsection.14405}
+\contentsline {subsubsection}{\numberline {6.38.2}HydraMinionConstants}{260}{subsubsection.14473}
+\contentsline {subsubsection}{\numberline {6.38.3}ManticoreMinionConstants}{261}{subsubsection.14529}
+\contentsline {subsubsection}{\numberline {6.38.4}SkeletonMinionConstants}{262}{subsubsection.14594}
+\contentsline {subsubsection}{\numberline {6.38.5}VampireMinionConstants}{263}{subsubsection.14649}
+\contentsline {subsubsection}{\numberline {6.38.6}ZombieMinionConstants}{263}{subsubsection.14704}
+\contentsline {subsection}{\numberline {6.39}Resource.Constants.MinionConstants.Law}{264}{subsection.14759}
+\contentsline {subsubsection}{\numberline {6.39.1}IcarusTowerMinionConstants}{264}{subsubsection.14760}
+\contentsline {subsubsection}{\numberline {6.39.2}PaladinMinionConstants}{265}{subsubsection.14825}
+\contentsline {subsubsection}{\numberline {6.39.3}PegasusMinionConstants}{266}{subsubsection.14880}
+\contentsline {subsubsection}{\numberline {6.39.4}SapphireDragonMinionConstants}{267}{subsubsection.14935}
+\contentsline {subsection}{\numberline {6.40}Resource.Constants.MinionConstants.Neutral}{268}{subsection.15000}
+\contentsline {subsubsection}{\numberline {6.40.1}AirElementalMinionConstants}{268}{subsubsection.15001}
+\contentsline {subsubsection}{\numberline {6.40.2}EagleMinionConstants}{269}{subsubsection.15056}
+\contentsline {subsubsection}{\numberline {6.40.3}GiantMinionConstants}{270}{subsubsection.15111}
+\contentsline {subsubsection}{\numberline {6.40.4}LionMinionConstants}{271}{subsubsection.15174}
+\contentsline {subsection}{\numberline {6.41}Resource.Images}{272}{subsection.15229}
+\contentsline {subsubsection}{\numberline {6.41.1}Animations}{272}{subsubsection.15230}
+\contentsline {subsubsection}{\numberline {6.41.2}CardExclusiveImages}{273}{subsubsection.15269}
+\contentsline {subsubsection}{\numberline {6.41.3}GOImages}{274}{subsubsection.15330}
+\contentsline {subsubsection}{\numberline {6.41.4}HexImages}{276}{subsubsection.15462}
+\contentsline {subsubsection}{\numberline {6.41.5}Images}{276}{subsubsection.15509}
+\contentsline {subsubsection}{\numberline {6.41.6}UIElementsImages}{277}{subsubsection.15567}
+\contentsline {subsubsection}{\numberline {6.41.7}WandImages}{278}{subsubsection.15621}
+\contentsline {subsection}{\numberline {6.42}Util}{279}{subsection.15657}
+\contentsline {subsubsection}{\numberline {6.42.1}Stack}{279}{subsubsection.15658}
+\contentsline {subsection}{\numberline {6.43}View.Menus}{280}{subsection.15721}
+\contentsline {subsubsection}{\numberline {6.43.1}MainMenu}{280}{subsubsection.15722}
+\contentsline {subsubsection}{\numberline {6.43.2}MapOptionsMenu}{282}{subsubsection.15832}
+\contentsline {subsubsection}{\numberline {6.43.3}Menu}{285}{subsubsection.16063}
+\contentsline {subsubsection}{\numberline {6.43.4}MultiplayerMenu}{288}{subsubsection.16227}
+\contentsline {subsubsection}{\numberline {6.43.5}OptionsMenu}{290}{subsubsection.16402}
+\contentsline {subsubsection}{\numberline {6.43.6}PauseMenu}{292}{subsubsection.16506}
+\contentsline {subsubsection}{\numberline {6.43.7}SoundMenu}{294}{subsubsection.16619}
+\contentsline {subsection}{\numberline {6.44}View.PopUps}{297}{subsection.16799}
+\contentsline {subsubsection}{\numberline {6.44.1}ConnectionPopUp}{297}{subsubsection.16800}
+\contentsline {subsubsection}{\numberline {6.44.2}MapSavePopUp}{297}{subsubsection.16854}
+\contentsline {subsubsection}{\numberline {6.44.3}PopUp}{298}{subsubsection.16901}
+\contentsline {subsubsection}{\numberline {6.44.4}WinPopUp}{300}{subsubsection.17004}
+\contentsline {subsection}{\numberline {6.45}View.Scenes}{301}{subsection.17069}
+\contentsline {subsubsection}{\numberline {6.45.1}ChaosScene}{301}{subsubsection.17070}
+\contentsline {subsubsection}{\numberline {6.45.2}GameScene}{305}{subsubsection.17341}
+\contentsline {subsubsection}{\numberline {6.45.3}GameSetupScene}{309}{subsubsection.17606}
+\contentsline {subsubsection}{\numberline {6.45.4}GameSetupSceneMP}{313}{subsubsection.17889}
+\contentsline {subsubsection}{\numberline {6.45.5}MenuScene}{318}{subsubsection.18165}
+\contentsline {subsection}{\numberline {6.46}View.Stylesheets}{319}{subsection.18215}
+\contentsline {subsubsection}{\numberline {6.46.1}MenuButton}{319}{subsubsection.18216}
+\contentsline {subsubsection}{\numberline {6.46.2}MenuItem}{319}{subsubsection.18223}
+\contentsline {subsubsection}{\numberline {6.46.3}MenuSlider}{319}{subsubsection.18230}
+\contentsline {subsubsection}{\numberline {6.46.4}MenuTextField}{319}{subsubsection.18250}
+\contentsline {subsection}{\numberline {6.47}View.Tooltip}{319}{subsection.18258}
+\contentsline {subsubsection}{\numberline {6.47.1}CardTooltip}{319}{subsubsection.18259}
+\contentsline {subsubsection}{\numberline {6.47.2}GOTooltip}{321}{subsubsection.18379}
+\contentsline {subsubsection}{\numberline {6.47.3}MinionTooltip}{322}{subsubsection.18402}
+\contentsline {subsubsection}{\numberline {6.47.4}TileTooltip}{324}{subsubsection.18560}
+\contentsline {subsubsection}{\numberline {6.47.5}Tooltip}{325}{subsubsection.18596}
+\contentsline {subsubsection}{\numberline {6.47.6}TooltipBox}{329}{subsubsection.18889}
+\contentsline {subsubsection}{\numberline {6.47.7}WandTooltip}{331}{subsubsection.19012}
+\contentsline {subsection}{\numberline {6.48}View.UIElements}{332}{subsection.19036}
+\contentsline {subsubsection}{\numberline {6.48.1}CardView}{332}{subsubsection.19037}
+\contentsline {subsubsection}{\numberline {6.48.2}ChaosBackground}{335}{subsubsection.19276}
+\contentsline {subsubsection}{\numberline {6.48.3}ChaosMenuButton}{336}{subsubsection.19329}
+\contentsline {subsubsection}{\numberline {6.48.4}ChaosVBox}{339}{subsubsection.19489}
+\contentsline {subsubsection}{\numberline {6.48.5}DeckUI}{339}{subsubsection.19534}
+\contentsline {subsubsection}{\numberline {6.48.6}FluxBar}{342}{subsubsection.19674}
+\contentsline {subsubsection}{\numberline {6.48.7}HandView}{345}{subsubsection.19927}
+\contentsline {subsubsection}{\numberline {6.48.8}IChaosUI}{347}{subsubsection.20024}
+\contentsline {subsubsection}{\numberline {6.48.9}ManaBar}{347}{subsubsection.20040}
+\contentsline {subsubsection}{\numberline {6.48.10}MapView}{350}{subsubsection.20235}
+\contentsline {subsubsection}{\numberline {6.48.11}MusicAndEffect}{355}{subsubsection.20574}
+\contentsline {subsubsection}{\numberline {6.48.12}PlayerWandView}{359}{subsubsection.20809}
+\contentsline {subsubsection}{\numberline {6.48.13}RoundButton}{361}{subsubsection.20943}
+\contentsline {subsubsection}{\numberline {6.48.14}TextWithBackground}{364}{subsubsection.21158}
+\contentsline {subsubsection}{\numberline {6.48.15}TileView}{367}{subsubsection.21307}
+\contentsline {subsubsection}{\numberline {6.48.16}TurnPlayerDisplay}{368}{subsubsection.21379}
+\contentsline {subsubsection}{\numberline {6.48.17}WandView}{370}{subsubsection.21517}
+\contentsline {section}{\numberline {7}Art}{372}{section.21636}
+\contentsline {subsection}{\numberline {7.1}AirElemental}{372}{subsection.21637}
+\contentsline {subsection}{\numberline {7.2}AirWand}{373}{subsection.21638}
+\contentsline {subsection}{\numberline {7.3}BlueExplosion}{373}{subsection.21639}
+\contentsline {subsection}{\numberline {7.4}Buff}{373}{subsection.21640}
+\contentsline {subsection}{\numberline {7.5}CreatureWand}{374}{subsection.21641}
+\contentsline {subsection}{\numberline {7.6}Death}{374}{subsection.21642}
+\contentsline {subsection}{\numberline {7.7}Deck}{375}{subsection.21643}
+\contentsline {subsection}{\numberline {7.8}Decree}{375}{subsection.21644}
+\contentsline {subsection}{\numberline {7.9}DivineBow}{375}{subsection.21645}
+\contentsline {subsection}{\numberline {7.10}DivineShield}{375}{subsection.21646}
+\contentsline {subsection}{\numberline {7.11}DivineSword}{375}{subsection.21647}
+\contentsline {subsection}{\numberline {7.12}Eagle}{376}{subsection.21648}
+\contentsline {subsection}{\numberline {7.13}EndTurnHover}{376}{subsection.21649}
+\contentsline {subsection}{\numberline {7.14}EndTurnIdle}{376}{subsection.21650}
+\contentsline {subsection}{\numberline {7.15}EndTurnPressed}{376}{subsection.21651}
+\contentsline {subsection}{\numberline {7.16}Flux}{377}{subsection.21652}
+\contentsline {subsection}{\numberline {7.17}Frame\_Player\_Lime}{377}{subsection.21653}
+\contentsline {subsection}{\numberline {7.18}Frame\_Player\_Red}{377}{subsection.21654}
+\contentsline {subsection}{\numberline {7.19}Frame\_Player\_Yellow}{377}{subsection.21655}
+\contentsline {subsection}{\numberline {7.20}GameBackground}{378}{subsection.21656}
+\contentsline {subsection}{\numberline {7.21}Giant}{378}{subsection.21657}
+\contentsline {subsection}{\numberline {7.22}Hellhound}{378}{subsection.21658}
+\contentsline {subsection}{\numberline {7.23}Hex\_Frame}{378}{subsection.21659}
+\contentsline {subsection}{\numberline {7.24}Hex\_Frame\_Highlighted\_atk}{379}{subsection.21660}
+\contentsline {subsection}{\numberline {7.25}Hex\_Frame\_Highlighted\_atk\_move}{379}{subsection.21661}
+\contentsline {subsection}{\numberline {7.26}Hex\_Frame\_Highlighted\_move}{379}{subsection.21662}
+\contentsline {subsection}{\numberline {7.27}Hex\_Frame\_Selected}{379}{subsection.21663}
+\contentsline {subsection}{\numberline {7.28}Hex\_Height\_0}{379}{subsection.21664}
+\contentsline {subsection}{\numberline {7.29}Hex\_Height\_1}{379}{subsection.21665}
+\contentsline {subsection}{\numberline {7.30}Hex\_Height\_2}{380}{subsection.21666}
+\contentsline {subsection}{\numberline {7.31}Hex\_Height\_3}{380}{subsection.21667}
+\contentsline {subsection}{\numberline {7.32}Hit}{380}{subsection.21668}
+\contentsline {subsection}{\numberline {7.33}Hydra}{380}{subsection.21669}
+\contentsline {subsection}{\numberline {7.34}IcarusTower}{380}{subsection.21670}
+\contentsline {subsection}{\numberline {7.35}MagicBolt}{380}{subsection.21671}
+\contentsline {subsection}{\numberline {7.36}ManaBar}{381}{subsection.21672}
+\contentsline {subsection}{\numberline {7.37}ManaCost}{381}{subsection.21673}
+\contentsline {subsection}{\numberline {7.38}Mana\_Crystal}{381}{subsection.21674}
+\contentsline {subsection}{\numberline {7.39}Manticore}{381}{subsection.21675}
+\contentsline {subsection}{\numberline {7.40}MenuBackground0}{382}{subsection.21676}
+\contentsline {subsection}{\numberline {7.41}MenuBackground1}{383}{subsection.21677}
+\contentsline {subsection}{\numberline {7.42}MenuBackground2}{383}{subsection.21678}
+\contentsline {subsection}{\numberline {7.43}MenuBackground3}{384}{subsection.21679}
+\contentsline {subsection}{\numberline {7.44}NoImage}{384}{subsection.21680}
+\contentsline {subsection}{\numberline {7.45}Obstacle}{384}{subsection.21681}
+\contentsline {subsection}{\numberline {7.46}Paladin}{384}{subsection.21682}
+\contentsline {subsection}{\numberline {7.47}Pegasus}{385}{subsection.21683}
+\contentsline {subsection}{\numberline {7.48}PlayerCharacter\_Wizard\_lime}{385}{subsection.21684}
+\contentsline {subsection}{\numberline {7.49}PlayerCharacter\_Wizard\_purple}{385}{subsection.21685}
+\contentsline {subsection}{\numberline {7.50}PlayerCharacter\_Wizard\_red}{385}{subsection.21686}
+\contentsline {subsection}{\numberline {7.51}PlayerCharacter\_Wizard\_yellow}{385}{subsection.21687}
+\contentsline {subsection}{\numberline {7.52}RandomWand}{386}{subsection.21688}
+\contentsline {subsection}{\numberline {7.53}SapphireDragon}{386}{subsection.21689}
+\contentsline {subsection}{\numberline {7.54}Skeleton}{386}{subsection.21690}
+\contentsline {subsection}{\numberline {7.55}Summon}{387}{subsection.21691}
+\contentsline {subsection}{\numberline {7.56}Lion}{387}{subsection.21692}
+\contentsline {subsection}{\numberline {7.57}UndeadWand}{387}{subsection.21693}
+\contentsline {subsection}{\numberline {7.58}Vampire}{388}{subsection.21694}
+\contentsline {subsection}{\numberline {7.59}Vengeance}{388}{subsection.21695}
+\contentsline {subsection}{\numberline {7.60}Windwalker}{388}{subsection.21696}
+\contentsline {subsection}{\numberline {7.61}Zombie}{388}{subsection.21697}

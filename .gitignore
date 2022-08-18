@@ -1,0 +1,66 @@
+#
+# Project specific excludes
+#
+
+tomcat
+
+#
+# Default excludes
+#
+
+# Binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+*.properties
+
+# Maven 
+target/
+
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.properties
+.jar
+
+
+# OS
+.DS_Store
+
+# Misc
+*.swp
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag
+*.properties
+
+/Prog2_EA_V2/nbproject/private/
+/Prog2_EA_V2/Prog2_EA_V2/nbproject/private/
+/Prog2_EA_V2/nbproject/build-impl.xml
+/Prog2_EA_V2/nbproject/build-impl.xml~
+/Prog2_EA_V2/nbproject/
